@@ -18,7 +18,7 @@ https://github-readme-stats.vercel.app/api?username={username}
 
 Hello. Welcome to my page. I'm a junior level developer looking to learn and grow.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheShonuff](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheShonuff](https://git.io/streak-stats)
 
 
 Cloud: 
