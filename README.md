@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://github-readme-stats.vercel.app/api?username={username}
--->
 ![banner](https://user-images.githubusercontent.com/24307352/158934864-9206db4a-5904-45eb-a28e-0c0e9eb86a42.png)
+
+-->
+![banner(3)](https://user-images.githubusercontent.com/24307352/158936804-a956c487-c74a-49e0-9c79-cb34747d8ec3.png)
+
 
 
 Welcome to my page. I'm a junior level developer looking to learn and grow.
@@ -29,7 +31,7 @@ Welcome to my page. I'm a junior level developer looking to learn and grow.
 
 <div style="display: flex; flex-direction: row;">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheShonuff&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheShonuff&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  [![Sho'nuff GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShonuff&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
