@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://github-readme-stats.vercel.app/api?username={username}
 -->
+![banner](https://user-images.githubusercontent.com/24307352/158934864-9206db4a-5904-45eb-a28e-0c0e9eb86a42.png)
 
-Hello. Welcome to my page. I'm a junior level developer looking to learn and grow.
+Welcome to my page. I'm a junior level developer looking to learn and grow.
 
 - 🔭 I’m currently working on a website for a non-profit
 - 🌱 I’m currently learning Django
