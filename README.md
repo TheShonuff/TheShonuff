@@ -26,11 +26,11 @@ Welcome to my page. I'm a junior level developer looking to learn and grow.
 - 💬 Ask me about design and python
 - ⚡ Fun fact: I'm an ASE master automotive technician 
 
-<p align="center">
+<div style="display: flex; flex-direction: row;">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheShonuff&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-  </P>
+ </div>
 
 
 Cloud: 
