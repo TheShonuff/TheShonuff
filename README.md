@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **TheShonuff/TheShonuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,13 @@ https://github-readme-stats.vercel.app/api?username={username}
 -->
 
 Hello. Welcome to my page. I'm a junior level developer looking to learn and grow.
+
+- 🔭 I’m currently working on a website for a non-profit
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on fun projects
+- 🤔 I’m looking for help with whatever you need
+- 💬 Ask me about design and python
+- ⚡ Fun fact: I'm an ASE master automotive technician 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheShonuff&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
