@@ -17,7 +17,6 @@ https://github-readme-stats.vercel.app/api?username={username}
 -->
 ![banner](https://user-images.githubusercontent.com/24307352/158934864-9206db4a-5904-45eb-a28e-0c0e9eb86a42.png)
 
-[![Sho'nuff GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShonuff&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Welcome to my page. I'm a junior level developer looking to learn and grow.
 
