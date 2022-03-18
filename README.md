@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github-readme-stats.vercel.app/api?username={username}
 -->
 
 Hello. Welcome to my page. I'm a junior level developer looking to learn and grow.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheShonuff](https://git.io/streak-stats)
 
-https://github-readme-stats.vercel.app/api?username={username}
 
 Cloud: 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
